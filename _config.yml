@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?hl=en&user=o6qLxn0AAAAJ"
-  email            :
+  email            : "tianqi_tang@ucsb.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tianqitang"
+  github           : #"tianqitang"
   google_plus      :
   keybase          :
   instagram        :
