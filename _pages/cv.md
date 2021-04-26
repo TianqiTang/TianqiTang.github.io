@@ -11,23 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical and Computer Enginnering, University of California, Santa Barbara, 2022 (expected)
+* M.S. in Electronic Engineering, Tsinghua University, 2017
+* B.S. in Electronic Engineering, Tsinghua University, 2014
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2020 - May 2021: Student Researcher
+  * Google -- Remote (Due to Covid-19)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Summer 2018/2019: Hardware Engineer Intern
+  * Google -- Sunnyvale, CA
+  * Platform and Performance Team, Google Cloud
+  * Supervisor: Sheng Li, and Norm Jouppi
+
+* Oct 2016 - May 2017: Research Intern
+  * Deephi Technology (Now Part of Xilinx) -- Beijing, China
+  * Neural Network Model Compression and Quantization
+  * Supervisor: Yi Shan
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -40,20 +43,26 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+
+Awards and Honors
+======
+* Excellent Thesis Award, Tsinghua University, 2017 (Top 2%)
+* Richard Newton Young Student Fellow, the 54th Design Automation Conference (DAC), 2017
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* UCSB, ECE152A (Digital Design Principle) - Spring 2018
+* Tsinghua, DSP System Design - Fall 2014
+* Tsinghua, Introduction to Computer Architecture - Spring 2014
   
-Service and leadership
+Academic Service
 ======
-* Currently signed in to 43 different slack teams
+* [Artifact Evaluation Committee Member](https://conf.researchr.org/committee/cgo-2021/cgo-2021-call-for-artifacts-artifact-evaluation-committee) -- International Symposium on Code Generation and Optimization (CGO), 2021
+* [Program Committee Member](https://sites.google.com/view/mlarchsys/isca-2020) -- ML for Computer Architecture and Systems Workshop (MLArchSys), 2020
